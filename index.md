@@ -10,7 +10,7 @@ I am looking for motivated **Ph.D. and Master students** interested in spatio-te
 
 ## Research Interests
 - **Physical AI Simulation** — AI models, e.g., Mesh Graph Networks, for Physical Simulation.
-- **Reinforcement Learning** — Multi-agent reinforcement learning for route planning, collaborative detection, and optimization.
+- **Reinforcement Learning** — Multi-agent reinforcement learning for route planning, state estimation, and LLM post-training.
 - **Mobile and Distributed Computing** — Distributed data systems and intelligent services on mobile networks.
 
 ## News
