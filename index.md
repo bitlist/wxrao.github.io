@@ -11,7 +11,6 @@ I am looking for motivated **Ph.D. and Master's students** interested in mobile 
 ## Research Interests
 - **AI for Simulation** — AI models, e.g., Mesh Graph Networks, for Numerical Engnieering Simulation.
 - **Reinforcement Learning** — Multi-agent reinforcement learning for route planning, collaborative detection, and optimization.
-- **Mobile and Edge Computing** — Distributed data systems and intelligent services on mobile networks.
 
 ## News
 - **[2026]** Paper accepted at KDD 2026 AI4Science: *LGFlow: Long-term Fluid Simulation with Adaptive Spatio-Temporal Reduction on Mesh Graphs*. 
